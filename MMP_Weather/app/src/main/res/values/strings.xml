@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MMP_Weather</string>
+    <string name="weather_des">天气图标</string>
+    <string name="des_temp">%1$s - %2$s℃</string>
 </resources>
