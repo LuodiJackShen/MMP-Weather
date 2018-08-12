@@ -1,8 +1,8 @@
 package com.smallbee.weather
 
 import com.google.gson.Gson
-import com.smallbee.weather.mmp.AbsGetWeaDetModel
-import com.smallbee.weather.mmp.Results
+import com.mmp.AbsGetWeaDetModel
+import com.mmp.Results
 import org.jetbrains.anko.doAsync
 import org.jetbrains.anko.uiThread
 import java.net.URL

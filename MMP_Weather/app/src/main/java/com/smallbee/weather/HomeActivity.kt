@@ -3,9 +3,9 @@ package com.smallbee.weather
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
-import com.smallbee.weather.mmp.GetWeaDetPresenterImp
-import com.smallbee.weather.mmp.IGetWeaDetContract
-import com.smallbee.weather.mmp.Results
+import com.mmp.GetWeaDetPresenterImp
+import com.mmp.IGetWeaDetContract
+import com.mmp.Results
 import kotlinx.android.synthetic.main.activity_home.*
 
 class HomeActivity : AppCompatActivity(), IGetWeaDetContract.IGetWeaDetView {
