@@ -1,0 +1,4 @@
+include ":mrd-mmp"
+include ":mrd-mmp:android"
+include ":mrd-mmp:ios"
+include ":mrd-mmp:common"
