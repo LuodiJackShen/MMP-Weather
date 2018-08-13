@@ -1,0 +1,6 @@
+framework module MMPWeather {
+    umbrella header "MMPWeather.h"
+
+    export *
+    module * { export * }
+}
